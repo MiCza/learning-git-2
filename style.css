@@ -1,4 +1,16 @@
-body {
-  max-width: 1000px; }
+html {
+  padding: 20px 0; }
+  html body {
+    max-width: 768px;
+    margin: auto;
+    text-align: center; }
+    html body section {
+      padding: 20px 0;
+      background: linear-gradient(141deg, #dddddd 0%, #818181 51%, #cccccc 75%);
+      box-shadow: 2px 2px 25px #444;
+      border-radius: 7px; }
+      html body section h1 {
+        margin: 0 0 20px 0;
+        text-shadow: 2px 2px #fff; }
 
 /*# sourceMappingURL=style.css.map */
