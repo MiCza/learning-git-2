@@ -1,2 +1,4 @@
+Nadpis dla commita 'task-5-finished'
+
 node_modules\.bin\autoprefixer-cli -o style.prefixed.css style.css
 node_modules\.bin\nu-html-checker-cli -f *.html
